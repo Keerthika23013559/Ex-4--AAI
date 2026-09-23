@@ -1,6 +1,8 @@
 <H3>ENTER YOUR NAME : KEERTHIKA M P </H3>
 <H3>ENTER YOUR REGISTER NO : 212223240071 </H3>
 
+### Implementation of Hidden Markov Model
+
 ## Aim: 
 Construct a Python code to find the sequence of hidden states by the known sequence of observances using Hidden Markov Model. Consider two hidden states Sunny and Rainy with observable states,happy and sad.
 
